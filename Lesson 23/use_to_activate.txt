@@ -1,0 +1,5 @@
+PS C:\PythonPractice\Lesson 23> 
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+>>
+PS C:\PythonPractice\Lesson 23> 
+. .venv\Scripts\Activate
